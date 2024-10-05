@@ -22,5 +22,5 @@
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Rakujin) 
   [![Paypal|30x30](https://seeklogo.com/images/P/paypal-logo-CA814C6B42-seeklogo.com.png)](https://www.paypal.me/rakujin)
 
-  Bitcoin Address: 1L6fPcnkeGSAikvQWLXwD6SyooSighijPt
-  Ethereum Address: 0x0a0b017db9b5b306d219eb8e5f0f83d9235c9bc0
+  - Bitcoin Address: 1L6fPcnkeGSAikvQWLXwD6SyooSighijPt
+  - Ethereum Address: 0x0a0b017db9b5b306d219eb8e5f0f83d9235c9bc0
